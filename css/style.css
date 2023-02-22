@@ -3092,6 +3092,8 @@ body::after {
 
   .menu-open .menu__body {
     opacity: 1;
+    -webkit-box-shadow: none;
+            box-shadow: none;
   }
 
   .menu__list {
